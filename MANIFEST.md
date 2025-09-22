@@ -1,4 +1,4 @@
-# MCPB Manifest.json Spec
+https://www.tiktok.com/@okx_._._?_t=ZN-8zvg32XlqkA&_r=1# MCPB Manifest.json Spec
 
 Current version: `0.2`
 Last updated: 2025-09-12
