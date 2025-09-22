@@ -1,7 +1,7 @@
 https://www.tiktok.com/@okx_._._?_t=ZN-8zvg32XlqkA&_r=1# MCP Bundles (MCPB)
 
 > **⚠️ IMPORTANT NOTICE: This project is being renamed from DXT (Desktop Extensions) to MCPB (MCP Bundles)**
-> 
+> https://tiktok.me/streak/ZNHnoyn5dKJgv-ka3D0/
 > If you're looking for the DXT tools, they have been renamed to MCPB. Please update your dependencies and tooling:
 > - `dxt` CLI is now `mcpb`
 > - `.dxt` files are now `.mcpb` files
